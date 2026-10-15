@@ -1,0 +1,19 @@
+{
+  "name": "귀로 영어+ — 실전 영어 회화",
+  "short_name": "귀로 영어+",
+  "description": "일상 및 해외여행 영어 듣기와 회화 연습",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1628",
+  "theme_color": "#101e32",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
